@@ -1,0 +1,1894 @@
+<!-- Begin first item -->
+
+        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch">
+        
+            <div class="content">
+                <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                </p>
+                <p class="fst-italic">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore
+                    magna aliqua.
+                </p>
+                <ul>
+                    <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                    <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                    <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                        irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla
+                        pariatur.</li>
+                </ul>
+                <p>
+                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                    culpa qui officia deserunt mollit anim id est laborum
+                </p>
+            </div>
+        
+        </div>
+
+<!-- End first item -->
+
+<!-- ======= Whu Us Section ======= -->
+<section id="why-us" class="why-us">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Why choose <span>Our Dance Class</span></h2>
+            <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
+                vitae
+                autem.</p>
+        </div>
+
+        <div class="row">
+
+            <div class="col-lg-4">
+                <div class="box">
+                    <span>01</span>
+                    <h4>Lorem Ipsum</h4>
+                    <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 mt-4 mt-lg-0">
+                <div class="box">
+                    <span>02</span>
+                    <h4>Repellat Nihil</h4>
+                    <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno
+                        para
+                        dest</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 mt-4 mt-lg-0">
+                <div class="box">
+                    <span>03</span>
+                    <h4> Ad ad velit qui</h4>
+                    <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End Whu Us Section -->
+
+
+
+    <!-- ======= Menu Section ======= -->
+    <section id="menu" class="menu">
+        <div class="container">
+    
+            <div class="section-title">
+                <h2>Check our tasty <span>Menu</span></h2>
+            </div>
+    
+            <div class="row">
+                <div class="col-lg-12 d-flex justify-content-center">
+                    <ul id="menu-flters">
+                        <li data-filter="*" class="filter-active">Show All</li>
+                        <li data-filter=".filter-starters">Starters</li>
+                        <li data-filter=".filter-salads">Salads</li>
+                        <li data-filter=".filter-specialty">Specialty</li>
+                    </ul>
+                </div>
+            </div>
+    
+            <div class="row menu-container">
+    
+                <div class="col-lg-6 menu-item filter-starters">
+                    <div class="menu-content">
+                        <a href="#">Lobster Bisque</a><span>$5.95</span>
+                    </div>
+                    <div class="menu-ingredients">
+                        Lorem, deren, trataro, filede, nerada
+                    </div>
+                </div>
+    
+                <div class="col-lg-6 menu-item filter-specialty">
+                    <div class="menu-content">
+                        <a href="#">Bread barrel</a><span>$6.95</span>
+                    </div>
+                    <div class="menu-ingredients">
+                        Lorem, deren, trataro, filede, nerada
+                    </div>
+                </div>
+    
+                <div class="col-lg-6 menu-item filter-starters">
+                    <div class="menu-content">
+                        <a href="#">Crab Cake</a><span>$7.95</span>
+                    </div>
+                    <div class="menu-ingredients">
+                        A delicate crab cake served on a toasted roll with lettuce and tartar sauce
+                    </div>
+                </div>
+    
+                <div class="col-lg-6 menu-item filter-salads">
+                    <div class="menu-content">
+                        <a href="#">Caesar Selections</a><span>$8.95</span>
+                    </div>
+                    <div class="menu-ingredients">
+                        Lorem, deren, trataro, filede, nerada
+                    </div>
+                </div>
+    
+                <div class="col-lg-6 menu-item filter-specialty">
+                    <div class="menu-content">
+                        <a href="#">Tuscan Grilled</a><span>$9.95</span>
+                    </div>
+                    <div class="menu-ingredients">
+                        Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+                    </div>
+                </div>
+    
+                <div class="col-lg-6 menu-item filter-starters">
+                    <div class="menu-content">
+                        <a href="#">Mozzarella Stick</a><span>$4.95</span>
+                    </div>
+                    <div class="menu-ingredients">
+                        Lorem, deren, trataro, filede, nerada
+                    </div>
+                </div>
+    
+                <div class="col-lg-6 menu-item filter-salads">
+                    <div class="menu-content">
+                        <a href="#">Greek Salad</a><span>$9.95</span>
+                    </div>
+                    <div class="menu-ingredients">
+                        Fresh spinach, crisp romaine, tomatoes, and Greek olives
+                    </div>
+                </div>
+    
+                <div class="col-lg-6 menu-item filter-salads">
+                    <div class="menu-content">
+                        <a href="#">Spinach Salad</a><span>$9.95</span>
+                    </div>
+                    <div class="menu-ingredients">
+                        Fresh spinach with mushrooms, hard boiled egg, and warm bacon vinaigrette
+                    </div>
+                </div>
+    
+                <div class="col-lg-6 menu-item filter-specialty">
+                    <div class="menu-content">
+                        <a href="#">Lobster Roll</a><span>$12.95</span>
+                    </div>
+                    <div class="menu-ingredients">
+                        Plump lobster meat, mayo and crisp lettuce on a toasted bulky roll
+                    </div>
+                </div>
+    
+            </div>
+    
+        </div>
+    </section><!-- End Menu Section -->
+
+
+    <!-- ======= Specials Section ======= -->
+    <section id="specials" class="specials">
+        <div class="container">
+    
+            <div class="section-title">
+                <h2>Check our <span>Specials</span></h2>
+                <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
+                    vitae
+                    autem.</p>
+            </div>
+    
+            <div class="row">
+                <div class="col-lg-3">
+                    <ul class="nav nav-tabs flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Modi sit est</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Unde praesentium sed</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Pariatur explicabo vel</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Nostrum qui quasi</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Iusto ut expedita aut</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-9 mt-4 mt-lg-0">
+                    <div class="tab-content">
+                        <div class="tab-pane active show" id="tab-1">
+                            <div class="row">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>Architecto ut aperiam autem id</h3>
+                                    <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde
+                                        sonata raqer
+                                        a videna mareta paulona marka</p>
+                                    <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos
+                                        ipsum ipsa
+                                        odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et
+                                        quis magni
+                                        nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                    <img src="assets/img/specials-1.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-2">
+                            <div class="row">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>Et blanditiis nemo veritatis excepturi</h3>
+                                    <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde
+                                        sonata raqer
+                                        a videna mareta paulona marka</p>
+                                    <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis
+                                        sunt sunt
+                                        est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio
+                                        nesciunt eaque
+                                        beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                    <img src="assets/img/specials-2.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-3">
+                            <div class="row">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>Impedit facilis occaecati odio neque aperiam sit</h3>
+                                    <p class="fst-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim
+                                        fuga. Qui natus
+                                        non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p>
+                                    <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam.
+                                        Neque
+                                        necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a
+                                        iste odio. Earum
+                                        odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                    <img src="assets/img/specials-3.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-4">
+                            <div class="row">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore</h3>
+                                    <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure
+                                        porro quis
+                                        delectus</p>
+                                    <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam
+                                        necessitatibus aliquam
+                                        fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque.
+                                        Eligendi asperiores
+                                        sed qui veritatis aperiam quia a laborum inventore</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                    <img src="assets/img/specials-4.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-5">
+                            <div class="row">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>Est eveniet ipsam sindera pad rone matrelat sando reda</h3>
+                                    <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
+                                    <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut
+                                        non quam ut
+                                        quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint
+                                        aut vitae
+                                        molestiae voluptate vel</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                    <img src="assets/img/specials-5.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+        </div>
+    </section><!-- End Specials Section -->
+
+
+<!-- ======= Events Section ======= -->
+<section id="events" class="events">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Organize Your <span>Events</span> in our Restaurant</h2>
+        </div>
+
+        <div class="events-slider swiper">
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                    <div class="row event-item">
+                        <div class="col-lg-6">
+                            <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="col-lg-6 pt-4 pt-lg-0 content">
+                            <h3>Birthday Parties</h3>
+                            <div class="price">
+                                <p><span>$189</span></p>
+                            </div>
+                            <p class="fst-italic">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore
+                                et dolore
+                                magna aliqua.
+                            </p>
+                            <ul>
+                                <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</li>
+                                <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in
+                                    voluptate velit.
+                                </li>
+                                <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</li>
+                            </ul>
+                            <p>
+                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                reprehenderit in
+                                voluptate
+                                velit esse cillum dolore eu fugiat nulla pariatur
+                            </p>
+                        </div>
+                    </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                    <div class="row event-item">
+                        <div class="col-lg-6">
+                            <img src="assets/img/event-private.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="col-lg-6 pt-4 pt-lg-0 content">
+                            <h3>Private Parties</h3>
+                            <div class="price">
+                                <p><span>$290</span></p>
+                            </div>
+                            <p class="fst-italic">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore
+                                et dolore
+                                magna aliqua.
+                            </p>
+                            <ul>
+                                <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</li>
+                                <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in
+                                    voluptate velit.
+                                </li>
+                                <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</li>
+                            </ul>
+                            <p>
+                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                reprehenderit in
+                                voluptate
+                                velit esse cillum dolore eu fugiat nulla pariatur
+                            </p>
+                        </div>
+                    </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                    <div class="row event-item">
+                        <div class="col-lg-6">
+                            <img src="assets/img/event-custom.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="col-lg-6 pt-4 pt-lg-0 content">
+                            <h3>Custom Parties</h3>
+                            <div class="price">
+                                <p><span>$99</span></p>
+                            </div>
+                            <p class="fst-italic">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore
+                                et dolore
+                                magna aliqua.
+                            </p>
+                            <ul>
+                                <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</li>
+                                <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in
+                                    voluptate velit.
+                                </li>
+                                <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</li>
+                            </ul>
+                            <p>
+                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                reprehenderit in
+                                voluptate
+                                velit esse cillum dolore eu fugiat nulla pariatur
+                            </p>
+                        </div>
+                    </div>
+                </div><!-- End testimonial item -->
+
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+
+    </div>
+</section><!-- End Events Section -->
+
+
+
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials">
+        <div class="container position-relative">
+    
+            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                <div class="swiper-wrapper">
+    
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                            <h3>Saul Goodman</h3>
+                            <h4>Ceo &amp; Founder</h4>
+                            <div class="stars">
+                                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i>
+                            </div>
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
+                                Accusantium
+                                quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                        </div>
+                    </div><!-- End testimonial item -->
+    
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                            <h3>Sara Wilsson</h3>
+                            <h4>Designer</h4>
+                            <div class="stars">
+                                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i>
+                            </div>
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum
+                                eram malis
+                                quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                        </div>
+                    </div><!-- End testimonial item -->
+    
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                            <h3>Jena Karlis</h3>
+                            <h4>Store Owner</h4>
+                            <div class="stars">
+                                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i>
+                            </div>
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis
+                                minim
+                                tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                        </div>
+                    </div><!-- End testimonial item -->
+    
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                            <h3>Matt Brandon</h3>
+                            <h4>Freelancer</h4>
+                            <div class="stars">
+                                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i>
+                            </div>
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim
+                                velit
+                                minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum
+                                veniam.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                        </div>
+                    </div><!-- End testimonial item -->
+    
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                            <h3>John Larson</h3>
+                            <h4>Entrepreneur</h4>
+                            <div class="stars">
+                                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                    class="bi bi-star-fill"></i>
+                            </div>
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam
+                                enim culpa
+                                labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum
+                                quid.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
+                        </div>
+                    </div><!-- End testimonial item -->
+    
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+    
+        </div>
+    </section><!-- End Testimonials Section -->
+
+<!-- ======= Book A Table Section ======= -->
+<section id="book-a-table" class="book-a-table">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Book a <span>Table</span></h2>
+            <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
+                vitae
+                autem.</p>
+        </div>
+
+        <form action="forms/book-a-table.php" method="post" role="form" class="php-email-form">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 form-group">
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name"
+                        data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                    <div class="validate"></div>
+                </div>
+                <div class="col-lg-4 col-md-6 form-group mt-3 mt-md-0">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"
+                        data-rule="email" data-msg="Please enter a valid email">
+                    <div class="validate"></div>
+                </div>
+                <div class="col-lg-4 col-md-6 form-group mt-3 mt-md-0">
+                    <input type="text" class="form-control" name="phone" id="phone" placeholder="Your Phone"
+                        data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                    <div class="validate"></div>
+                </div>
+                <div class="col-lg-4 col-md-6 form-group mt-3">
+                    <input type="text" name="date" class="form-control" id="date" placeholder="Date"
+                        data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                    <div class="validate"></div>
+                </div>
+                <div class="col-lg-4 col-md-6 form-group mt-3">
+                    <input type="text" class="form-control" name="time" id="time" placeholder="Time"
+                        data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                    <div class="validate"></div>
+                </div>
+                <div class="col-lg-4 col-md-6 form-group mt-3">
+                    <input type="number" class="form-control" name="people" id="people" placeholder="# of people"
+                        data-rule="minlen:1" data-msg="Please enter at least 1 chars">
+                    <div class="validate"></div>
+                </div>
+            </div>
+            <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message"></textarea>
+                <div class="validate"></div>
+            </div>
+            <div class="mb-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your booking request was sent. We will call back or send an Email to confirm
+                    your
+                    reservation. Thank you!</div>
+            </div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
+        </form>
+
+    </div>
+</section><!-- End Book A Table Section -->
+
+    <!-- ======= Gallery Section ======= -->
+    <section id="gallery" class="gallery">
+        <div class="container-fluid">
+    
+            <div class="section-title">
+                <h2>Some photos from <span>Our Restaurant</span></h2>
+                <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
+                    vitae
+                    autem.</p>
+            </div>
+    
+            <div class="row g-0">
+    
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-1.jpg" class="gallery-lightbox">
+                            <img src="assets/img/gallery/gallery-1.jpg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-2.jpg" class="gallery-lightbox">
+                            <img src="assets/img/gallery/gallery-2.jpg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-3.jpg" class="gallery-lightbox">
+                            <img src="assets/img/gallery/gallery-3.jpg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-4.jpg" class="gallery-lightbox">
+                            <img src="assets/img/gallery/gallery-4.jpg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-5.jpg" class="gallery-lightbox">
+                            <img src="assets/img/gallery/gallery-5.jpg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-6.jpg" class="gallery-lightbox">
+                            <img src="assets/img/gallery/gallery-6.jpg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-7.jpg" class="gallery-lightbox">
+                            <img src="assets/img/gallery/gallery-7.jpg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+    
+                <div class="col-lg-3 col-md-4">
+                    <div class="gallery-item">
+                        <a href="assets/img/gallery/gallery-8.jpg" class="gallery-lightbox">
+                            <img src="assets/img/gallery/gallery-8.jpg" alt="" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+    
+            </div>
+    
+        </div>
+    </section><!-- End Gallery Section -->
+    
+
+        <!-- ======= About Section ======= -->
+        <section id="about" class="about">
+            <div class="container-fluid">
+        
+                <div class="row">
+        
+                    <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("assets/img/about.jpg");'>
+                        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
+                            data-autoplay="true"></a>
+                    </div>
+        
+                    <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch">
+        
+                        <div class="content">
+                            <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                                labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                            </p>
+                            <p class="fst-italic">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                                labore et dolore
+                                magna aliqua.
+                            </p>
+                            <ul>
+                                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                </li>
+                                <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate
+                                    velit.</li>
+                                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                    Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu
+                                    fugiat nulla pariatur.</li>
+                            </ul>
+                            <p>
+                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+                                in voluptate
+                                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                proident, sunt in
+                                culpa qui officia deserunt mollit anim id est laborum
+                            </p>
+                        </div>
+        
+                    </div>
+        
+                </div>
+        
+            </div>
+        </section><!-- End About Section -->
+
+
+
+
+        <div class="swiper-slide">
+            <div class="testimonial-item">
+                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                <h3>Sara Wilsson</h3>
+                <h4>Designer</h4>
+                <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
+                    quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+            </div>
+        </div><!-- End testimonial item -->
+        
+        <div class="swiper-slide">
+            <div class="testimonial-item">
+                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                <h3>Jena Karlis</h3>
+                <h4>Store Owner</h4>
+                <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim
+                    tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+            </div>
+        </div><!-- End testimonial item -->
+        
+        <div class="swiper-slide">
+            <div class="testimonial-item">
+                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                <h3>Matt Brandon</h3>
+                <h4>Freelancer</h4>
+                <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit
+                    minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+            </div>
+        </div><!-- End testimonial item -->
+        
+        <div class="swiper-slide">
+            <div class="testimonial-item">
+                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                <h3>Hugo A.</h3>
+                <h4>Bachatawan</h4>
+                <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Beste Tanzlehrer überhaupt! Erklären alles super klar und einfach! Geben konstruktives Feedback! Und
+                    tanzen im Unterricht immer mit allen.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+            </div>
+        </div><!-- End testimonial item -->
+
+
+
+
+                <section id="menu" class="menu">
+                    <div class="container-fluid" style="background: linear-gradient(90deg, #F4DFD0 0%, #FFF5EB 100%);">
+                        <div class="container p-5">
+                            <div class="row">
+                                <div class="col-lg-4 col-md-12 mb-4">
+                                    <div class="card h-100 shadow-lg">
+                                        <div class="card-body">
+                                            <div class="text-center p-3">
+                                                <h5 class="card-title">Vertrag</h5>
+                                                <small>3 Monate Laufzeit</small>
+                                                <br><br>
+                                                <span class="h2">€39</span>/Monat
+                                                <br><br>
+                                            </div>
+                                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                                of the card's
+                                                content.</p>
+                                        </div>
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                                                </svg> Cras justo odio</li>
+                                            <li class="list-group-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                                                </svg> Dapibus ac facilisis in</li>
+                                            <li class="list-group-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                                                </svg> 90 min pro Woche</li>
+                                        </ul>
+                
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-12 mb-4">
+                                    <div class="card h-100 shadow-lg">
+                                        <div class="card-body">
+                                            <div class="text-center p-3">
+                                                <h5 class="card-title">Standard</h5>
+                                                <small>Zeitkarte</small>
+                                                <br><br>
+                                                <span class="h2">€100</span>/8-Unterrichtseinheiten
+                                                <br><br>
+                                            </div>
+                                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                                of the card's
+                                                content.</p>
+                                        </div>
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                                                </svg> Flexibel einsetzbar</li>
+                                            <li class="list-group-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                                                </svg> 3 Monate Gültigkeit in</li>
+                                            <li class="list-group-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                                                </svg> Selber entscheiden</li>
+                                        </ul>
+                
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-12 mb-4">
+                                    <div class="card h-100 shadow-lg">
+                                        <div class="card-body">
+                                            <div class="text-center p-3">
+                                                <h5 class="card-title">Drop-In</h5>
+                                                <small>Deine Schnuppermöglichkeit</small>
+                                                <br><br>
+                                                <span class="h2">€15</span>/Unterrichtseinheit
+                                                <br><br>
+                                            </div>
+                                            <p class="card-text">Melde dich für deine erste Schnupperstunde an.</p>
+                                        </div>
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                                                </svg> Cras justo odio</li>
+                                            <li class="list-group-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                                                </svg> Dapibus ac facilisis in</li>
+                                            <li class="list-group-item"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                                                </svg> Vestibulum at eros</li>
+                                        </ul>
+                                        <div class="card-body text-center">
+                                            <button class="btn btn-outline-primary btn-lg" style="border-radius:30px">Select</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </section>
+
+
+<form action="forms/contact.php" method="post" role="form" class="php-email-form">
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <input type="text" name="name" class="form-control" id="name" placeholder="Dein Name" required>
+        </div>
+        <div class="col-md-6 form-group mt-3 mt-md-0">
+            <input type="email" class="form-control" name="email" id="email" placeholder="Deine Email-Adresse" required>
+        </div>
+    </div>
+    <div class="form-group mt-3">
+        <input type="text" class="form-control" name="subject" id="subject" placeholder="Betreff" required>
+    </div>
+    <div class="form-group mt-3">
+        <textarea class="form-control" name="message" rows="5" placeholder="Hallo Patricia & Stephan, ..."
+            required></textarea>
+    </div>
+    <div class="my-3">
+        <div class="loading">Laden</div>
+        <div class="error-message"></div>
+        <div class="sent-message">Deine Nachricht wurde verschickt, wir kommen demnächst auf dich zu. Vielen Dank!
+        </div>
+    </div>
+    <div class="text-center"><button type="submit">Nachricht abschicken</button></div>
+</form>
+
+
+
+                color
+
+verdigris
+#007070:
+$gray-50: #f2f3f3;
+$gray-100: #e5e6e6;
+$gray-200: #cacece;
+$gray-300: #b0b5b5;
+$gray-400: #959d9d;
+$gray-500: #7b8484;
+$gray-600: #626a6a;
+$gray-700: #4a4f4f;
+$gray-800: #313535;
+$gray-900: #191a1a;
+
+$cyan-50: #e5ffff;
+$cyan-100: #ccffff;
+$cyan-200: #99ffff;
+$cyan-300: #66ffff;
+$cyan-400: #33ffff;
+$cyan-500: #00ffff;
+$cyan-600: #00cccc;
+$cyan-700: #009999;
+$cyan-800: #006666;
+$cyan-900: #003333;
+
+$blue-50: #e5f2ff;
+$blue-100: #cce5ff;
+$blue-200: #99ccff;
+$blue-300: #66b2ff;
+$blue-400: #3399ff;
+$blue-500: #007fff;
+$blue-600: #0066cc;
+$blue-700: #004c99;
+$blue-800: #003366;
+$blue-900: #001933;
+
+$indigo-50: #e5e5ff;
+$indigo-100: #ccccff;
+$indigo-200: #9999ff;
+$indigo-300: #6666ff;
+$indigo-400: #3333ff;
+$indigo-500: #0000ff;
+$indigo-600: #0000cc;
+$indigo-700: #000099;
+$indigo-800: #000066;
+$indigo-900: #000033;
+
+$violet-50: #f2e5ff;
+$violet-100: #e5ccff;
+$violet-200: #cc99ff;
+$violet-300: #b266ff;
+$violet-400: #9933ff;
+$violet-500: #7f00ff;
+$violet-600: #6600cc;
+$violet-700: #4c0099;
+$violet-800: #330066;
+$violet-900: #190033;
+
+$purple-50: #ffe5ff;
+$purple-100: #ffccff;
+$purple-200: #ff99ff;
+$purple-300: #ff66ff;
+$purple-400: #ff33ff;
+$purple-500: #ff00ff;
+$purple-600: #cc00cc;
+$purple-700: #990099;
+$purple-800: #660066;
+$purple-900: #330033;
+
+$pink-50: #ffe5f2;
+$pink-100: #ffcce6;
+$pink-200: #ff99cc;
+$pink-300: #ff66b3;
+$pink-400: #ff3399;
+$pink-500: #ff0080;
+$pink-600: #cc0066;
+$pink-700: #99004d;
+$pink-800: #660033;
+$pink-900: #33001a;
+
+$red-50: #ffe5e5;
+$red-100: #ffcccc;
+$red-200: #ff9999;
+$red-300: #ff6666;
+$red-400: #ff3333;
+$red-500: #ff0000;
+$red-600: #cc0000;
+$red-700: #990000;
+$red-800: #660000;
+$red-900: #330000;
+
+$orange-50: #fff2e5;
+$orange-100: #ffe6cc;
+$orange-200: #ffcc99;
+$orange-300: #ffb366;
+$orange-400: #ff9933;
+$orange-500: #ff8000;
+$orange-600: #cc6600;
+$orange-700: #994c00;
+$orange-800: #663300;
+$orange-900: #331a00;
+
+$yellow-50: #ffffe5;
+$yellow-100: #ffffcc;
+$yellow-200: #ffff99;
+$yellow-300: #ffff66;
+$yellow-400: #ffff33;
+$yellow-500: #ffff00;
+$yellow-600: #cccc00;
+$yellow-700: #999900;
+$yellow-800: #666600;
+$yellow-900: #333300;
+
+$lime-50: #f2ffe5;
+$lime-100: #e6ffcc;
+$lime-200: #ccff99;
+$lime-300: #b3ff66;
+$lime-400: #99ff33;
+$lime-500: #80ff00;
+$lime-600: #66cc00;
+$lime-700: #4d9900;
+$lime-800: #336600;
+$lime-900: #1a3300;
+
+$green-50: #e5ffe5;
+$green-100: #ccffcc;
+$green-200: #99ff99;
+$green-300: #66ff66;
+$green-400: #33ff33;
+$green-500: #00ff00;
+$green-600: #00cc00;
+$green-700: #009900;
+$green-800: #006600;
+$green-900: #003300;
+
+$teal-50: #e5fff2;
+$teal-100: #ccffe6;
+$teal-200: #99ffcc;
+$teal-300: #66ffb3;
+$teal-400: #33ff99;
+$teal-500: #00ff80;
+$teal-600: #00cc66;
+$teal-700: #00994d;
+$teal-800: #006633;
+$teal-900: #00331a;
+
+
+$gray: $gray-500;
+$cyan: $cyan-500;
+$blue: $blue-500;
+$indigo: $indigo-500;
+$violet: $violet-500;
+$purple: $purple-500;
+$pink: $pink-500;
+$red: $red-500;
+$orange: $orange-500;
+$yellow: $yellow-500;
+$lime: $lime-500;
+$green: $green-500;
+$teal: $teal-500;
+
+
+$theme-colors: (
+
+"gray-50": $gray-50,
+"gray-100": $gray-100,
+"gray-200": $gray-200,
+"gray-300": $gray-300,
+"gray-400": $gray-400,
+"gray-500": $gray-500,
+"gray-600": $gray-600,
+"gray-700": $gray-700,
+"gray-800": $gray-800,
+"gray-900": $gray-900,
+
+"cyan-50": $cyan-50,
+"cyan-100": $cyan-100,
+"cyan-200": $cyan-200,
+"cyan-300": $cyan-300,
+"cyan-400": $cyan-400,
+"cyan-500": $cyan-500,
+"cyan-600": $cyan-600,
+"cyan-700": $cyan-700,
+"cyan-800": $cyan-800,
+"cyan-900": $cyan-900,
+
+"blue-50": $blue-50,
+"blue-100": $blue-100,
+"blue-200": $blue-200,
+"blue-300": $blue-300,
+"blue-400": $blue-400,
+"blue-500": $blue-500,
+"blue-600": $blue-600,
+"blue-700": $blue-700,
+"blue-800": $blue-800,
+"blue-900": $blue-900,
+
+"indigo-50": $indigo-50,
+"indigo-100": $indigo-100,
+"indigo-200": $indigo-200,
+"indigo-300": $indigo-300,
+"indigo-400": $indigo-400,
+"indigo-500": $indigo-500,
+"indigo-600": $indigo-600,
+"indigo-700": $indigo-700,
+"indigo-800": $indigo-800,
+"indigo-900": $indigo-900,
+
+"violet-50": $violet-50,
+"violet-100": $violet-100,
+"violet-200": $violet-200,
+"violet-300": $violet-300,
+"violet-400": $violet-400,
+"violet-500": $violet-500,
+"violet-600": $violet-600,
+"violet-700": $violet-700,
+"violet-800": $violet-800,
+"violet-900": $violet-900,
+
+"purple-50": $purple-50,
+"purple-100": $purple-100,
+"purple-200": $purple-200,
+"purple-300": $purple-300,
+"purple-400": $purple-400,
+"purple-500": $purple-500,
+"purple-600": $purple-600,
+"purple-700": $purple-700,
+"purple-800": $purple-800,
+"purple-900": $purple-900,
+
+"pink-50": $pink-50,
+"pink-100": $pink-100,
+"pink-200": $pink-200,
+"pink-300": $pink-300,
+"pink-400": $pink-400,
+"pink-500": $pink-500,
+"pink-600": $pink-600,
+"pink-700": $pink-700,
+"pink-800": $pink-800,
+"pink-900": $pink-900,
+
+"red-50": $red-50,
+"red-100": $red-100,
+"red-200": $red-200,
+"red-300": $red-300,
+"red-400": $red-400,
+"red-500": $red-500,
+"red-600": $red-600,
+"red-700": $red-700,
+"red-800": $red-800,
+"red-900": $red-900,
+
+"orange-50": $orange-50,
+"orange-100": $orange-100,
+"orange-200": $orange-200,
+"orange-300": $orange-300,
+"orange-400": $orange-400,
+"orange-500": $orange-500,
+"orange-600": $orange-600,
+"orange-700": $orange-700,
+"orange-800": $orange-800,
+"orange-900": $orange-900,
+
+"yellow-50": $yellow-50,
+"yellow-100": $yellow-100,
+"yellow-200": $yellow-200,
+"yellow-300": $yellow-300,
+"yellow-400": $yellow-400,
+"yellow-500": $yellow-500,
+"yellow-600": $yellow-600,
+"yellow-700": $yellow-700,
+"yellow-800": $yellow-800,
+"yellow-900": $yellow-900,
+
+"lime-50": $lime-50,
+"lime-100": $lime-100,
+"lime-200": $lime-200,
+"lime-300": $lime-300,
+"lime-400": $lime-400,
+"lime-500": $lime-500,
+"lime-600": $lime-600,
+"lime-700": $lime-700,
+"lime-800": $lime-800,
+"lime-900": $lime-900,
+
+"green-50": $green-50,
+"green-100": $green-100,
+"green-200": $green-200,
+"green-300": $green-300,
+"green-400": $green-400,
+"green-500": $green-500,
+"green-600": $green-600,
+"green-700": $green-700,
+"green-800": $green-800,
+"green-900": $green-900,
+
+"teal-50": $teal-50,
+"teal-100": $teal-100,
+"teal-200": $teal-200,
+"teal-300": $teal-300,
+"teal-400": $teal-400,
+"teal-500": $teal-500,
+"teal-600": $teal-600,
+"teal-700": $teal-700,
+"teal-800": $teal-800,
+"teal-900": $teal-900,
+);
+
+digital lavender:
+
+ADA7CB
+
+$gray-50: #f2f2f3;
+$gray-100: #e5e4e7;
+$gray-200: #cbcace;
+$gray-300: #b0afb6;
+$gray-400: #96959d;
+$gray-500: #7c7a85;
+$gray-600: #63626a;
+$gray-700: #4a4950;
+$gray-800: #323135;
+$gray-900: #19181b;
+
+$indigo-50: #f0eff6;
+$indigo-100: #e1dfec;
+$indigo-200: #c3bfd9;
+$indigo-300: #a59fc6;
+$indigo-400: #887fb3;
+$indigo-500: #6a5fa0;
+$indigo-600: #554c80;
+$indigo-700: #3f3960;
+$indigo-800: #2a2640;
+$indigo-900: #151320;
+
+$violet-50: #f3eff6;
+$violet-100: #e8dfec;
+$violet-200: #d0bfd9;
+$violet-300: #b99fc6;
+$violet-400: #a27fb3;
+$violet-500: #8a5fa0;
+$violet-600: #6f4c80;
+$violet-700: #533960;
+$violet-800: #372640;
+$violet-900: #1c1320;
+
+$purple-50: #f6eff4;
+$purple-100: #ecdfea;
+$purple-200: #d9bfd5;
+$purple-300: #c69fc0;
+$purple-400: #b37faa;
+$purple-500: #a05f95;
+$purple-600: #804c77;
+$purple-700: #60395a;
+$purple-800: #40263c;
+$purple-900: #20131e;
+
+$pink-50: #f6eff1;
+$pink-100: #ecdfe3;
+$pink-200: #d9bfc8;
+$pink-300: #c69fac;
+$pink-400: #b37f90;
+$pink-500: #a05f75;
+$pink-600: #804c5d;
+$pink-700: #603946;
+$pink-800: #40262f;
+$pink-900: #201317;
+
+$red-50: #f6f0ef;
+$red-100: #ece1df;
+$red-200: #d9c3bf;
+$red-300: #c6a59f;
+$red-400: #b3887f;
+$red-500: #a06a5f;
+$red-600: #80554c;
+$red-700: #603f39;
+$red-800: #402a26;
+$red-900: #201513;
+
+$orange-50: #f6f3ef;
+$orange-100: #ece8df;
+$orange-200: #d9d0bf;
+$orange-300: #c6b99f;
+$orange-400: #b3a27f;
+$orange-500: #a08a5f;
+$orange-600: #806f4c;
+$orange-700: #605339;
+$orange-800: #403726;
+$orange-900: #201c13;
+
+$yellow-50: #f4f6ef;
+$yellow-100: #eaecdf;
+$yellow-200: #d5d9bf;
+$yellow-300: #c0c69f;
+$yellow-400: #aab37f;
+$yellow-500: #95a05f;
+$yellow-600: #77804c;
+$yellow-700: #5a6039;
+$yellow-800: #3c4026;
+$yellow-900: #1e2013;
+
+$lime-50: #f1f6ef;
+$lime-100: #e3ecdf;
+$lime-200: #c8d9bf;
+$lime-300: #acc69f;
+$lime-400: #90b37f;
+$lime-500: #75a05f;
+$lime-600: #5d804c;
+$lime-700: #466039;
+$lime-800: #2f4026;
+$lime-900: #172013;
+
+$green-50: #eff6f0;
+$green-100: #dfece1;
+$green-200: #bfd9c3;
+$green-300: #9fc6a5;
+$green-400: #7fb388;
+$green-500: #5fa06a;
+$green-600: #4c8055;
+$green-700: #39603f;
+$green-800: #26402a;
+$green-900: #132015;
+
+$teal-50: #eff6f3;
+$teal-100: #dfece8;
+$teal-200: #bfd9d0;
+$teal-300: #9fc6b9;
+$teal-400: #7fb3a2;
+$teal-500: #5fa08a;
+$teal-600: #4c806f;
+$teal-700: #396053;
+$teal-800: #264037;
+$teal-900: #13201c;
+
+$cyan-50: #eff4f6;
+$cyan-100: #dfeaec;
+$cyan-200: #bfd5d9;
+$cyan-300: #9fc0c6;
+$cyan-400: #7faab3;
+$cyan-500: #5f95a0;
+$cyan-600: #4c7780;
+$cyan-700: #395a60;
+$cyan-800: #263c40;
+$cyan-900: #131e20;
+
+$blue-50: #eff1f6;
+$blue-100: #dfe3ec;
+$blue-200: #bfc8d9;
+$blue-300: #9facc6;
+$blue-400: #7f90b3;
+$blue-500: #5f75a0;
+$blue-600: #4c5d80;
+$blue-700: #394660;
+$blue-800: #262f40;
+$blue-900: #131720;
+
+
+$gray: $gray-500;
+$indigo: $indigo-500;
+$violet: $violet-500;
+$purple: $purple-500;
+$pink: $pink-500;
+$red: $red-500;
+$orange: $orange-500;
+$yellow: $yellow-500;
+$lime: $lime-500;
+$green: $green-500;
+$teal: $teal-500;
+$cyan: $cyan-500;
+$blue: $blue-500;
+
+
+$theme-colors: (
+
+"gray-50": $gray-50,
+"gray-100": $gray-100,
+"gray-200": $gray-200,
+"gray-300": $gray-300,
+"gray-400": $gray-400,
+"gray-500": $gray-500,
+"gray-600": $gray-600,
+"gray-700": $gray-700,
+"gray-800": $gray-800,
+"gray-900": $gray-900,
+
+"indigo-50": $indigo-50,
+"indigo-100": $indigo-100,
+"indigo-200": $indigo-200,
+"indigo-300": $indigo-300,
+"indigo-400": $indigo-400,
+"indigo-500": $indigo-500,
+"indigo-600": $indigo-600,
+"indigo-700": $indigo-700,
+"indigo-800": $indigo-800,
+"indigo-900": $indigo-900,
+
+"violet-50": $violet-50,
+"violet-100": $violet-100,
+"violet-200": $violet-200,
+"violet-300": $violet-300,
+"violet-400": $violet-400,
+"violet-500": $violet-500,
+"violet-600": $violet-600,
+"violet-700": $violet-700,
+"violet-800": $violet-800,
+"violet-900": $violet-900,
+
+"purple-50": $purple-50,
+"purple-100": $purple-100,
+"purple-200": $purple-200,
+"purple-300": $purple-300,
+"purple-400": $purple-400,
+"purple-500": $purple-500,
+"purple-600": $purple-600,
+"purple-700": $purple-700,
+"purple-800": $purple-800,
+"purple-900": $purple-900,
+
+"pink-50": $pink-50,
+"pink-100": $pink-100,
+"pink-200": $pink-200,
+"pink-300": $pink-300,
+"pink-400": $pink-400,
+"pink-500": $pink-500,
+"pink-600": $pink-600,
+"pink-700": $pink-700,
+"pink-800": $pink-800,
+"pink-900": $pink-900,
+
+"red-50": $red-50,
+"red-100": $red-100,
+"red-200": $red-200,
+"red-300": $red-300,
+"red-400": $red-400,
+"red-500": $red-500,
+"red-600": $red-600,
+"red-700": $red-700,
+"red-800": $red-800,
+"red-900": $red-900,
+
+"orange-50": $orange-50,
+"orange-100": $orange-100,
+"orange-200": $orange-200,
+"orange-300": $orange-300,
+"orange-400": $orange-400,
+"orange-500": $orange-500,
+"orange-600": $orange-600,
+"orange-700": $orange-700,
+"orange-800": $orange-800,
+"orange-900": $orange-900,
+
+"yellow-50": $yellow-50,
+"yellow-100": $yellow-100,
+"yellow-200": $yellow-200,
+"yellow-300": $yellow-300,
+"yellow-400": $yellow-400,
+"yellow-500": $yellow-500,
+"yellow-600": $yellow-600,
+"yellow-700": $yellow-700,
+"yellow-800": $yellow-800,
+"yellow-900": $yellow-900,
+
+"lime-50": $lime-50,
+"lime-100": $lime-100,
+"lime-200": $lime-200,
+"lime-300": $lime-300,
+"lime-400": $lime-400,
+"lime-500": $lime-500,
+"lime-600": $lime-600,
+"lime-700": $lime-700,
+"lime-800": $lime-800,
+"lime-900": $lime-900,
+
+"green-50": $green-50,
+"green-100": $green-100,
+"green-200": $green-200,
+"green-300": $green-300,
+"green-400": $green-400,
+"green-500": $green-500,
+"green-600": $green-600,
+"green-700": $green-700,
+"green-800": $green-800,
+"green-900": $green-900,
+
+"teal-50": $teal-50,
+"teal-100": $teal-100,
+"teal-200": $teal-200,
+"teal-300": $teal-300,
+"teal-400": $teal-400,
+"teal-500": $teal-500,
+"teal-600": $teal-600,
+"teal-700": $teal-700,
+"teal-800": $teal-800,
+"teal-900": $teal-900,
+
+"cyan-50": $cyan-50,
+"cyan-100": $cyan-100,
+"cyan-200": $cyan-200,
+"cyan-300": $cyan-300,
+"cyan-400": $cyan-400,
+"cyan-500": $cyan-500,
+"cyan-600": $cyan-600,
+"cyan-700": $cyan-700,
+"cyan-800": $cyan-800,
+"cyan-900": $cyan-900,
+
+"blue-50": $blue-50,
+"blue-100": $blue-100,
+"blue-200": $blue-200,
+"blue-300": $blue-300,
+"blue-400": $blue-400,
+"blue-500": $blue-500,
+"blue-600": $blue-600,
+"blue-700": $blue-700,
+"blue-800": $blue-800,
+"blue-900": $blue-900,
+);
+
+
+sundial
+
+#D18544
+
+$gray-50: #f3f2f2;
+$gray-100: #e6e5e5;
+$gray-200: #ceccca;
+$gray-300: #b5b2b0;
+$gray-400: #9d9995;
+$gray-500: #847f7b;
+$gray-600: #6a6662;
+$gray-700: #4f4c4a;
+$gray-800: #353331;
+$gray-900: #1a1919;
+
+$orange-50: #faf1eb;
+$orange-100: #f5e4d6;
+$orange-200: #ebc9ad;
+$orange-300: #e1ae84;
+$orange-400: #d7925b;
+$orange-500: #cd7732;
+$orange-600: #a45f28;
+$orange-700: #7b481e;
+$orange-800: #523014;
+$orange-900: #29180a;
+
+$yellow-50: #faf9eb;
+$yellow-100: #f5f3d6;
+$yellow-200: #ebe8ad;
+$yellow-300: #e1dc84;
+$yellow-400: #d7d15b;
+$yellow-500: #cdc532;
+$yellow-600: #a49e28;
+$yellow-700: #7b761e;
+$yellow-800: #524f14;
+$yellow-900: #29270a;
+
+$lime-50: #f3faeb;
+$lime-100: #e7f5d6;
+$lime-200: #cfebad;
+$lime-300: #b7e184;
+$lime-400: #a0d75b;
+$lime-500: #88cd32;
+$lime-600: #6da428;
+$lime-700: #517b1e;
+$lime-800: #365214;
+$lime-900: #1b290a;
+
+$green-50: #ebfaeb;
+$green-100: #d8f5d6;
+$green-200: #b0ebad;
+$green-300: #89e184;
+$green-400: #61d75b;
+$green-500: #3acd32;
+$green-600: #2ea428;
+$green-700: #237b1e;
+$green-800: #175214;
+$green-900: #0c290a;
+
+$teal-50: #ebfaf1;
+$teal-100: #d6f5e4;
+$teal-200: #adebc9;
+$teal-300: #84e1ae;
+$teal-400: #5bd792;
+$teal-500: #32cd77;
+$teal-600: #28a45f;
+$teal-700: #1e7b48;
+$teal-800: #145230;
+$teal-900: #0a2918;
+
+$cyan-50: #ebfaf9;
+$cyan-100: #d6f5f3;
+$cyan-200: #adebe8;
+$cyan-300: #84e1dc;
+$cyan-400: #5bd7d1;
+$cyan-500: #32cdc5;
+$cyan-600: #28a49e;
+$cyan-700: #1e7b76;
+$cyan-800: #14524f;
+$cyan-900: #0a2927;
+
+$blue-50: #ebf3fa;
+$blue-100: #d6e7f5;
+$blue-200: #adcfeb;
+$blue-300: #84b7e1;
+$blue-400: #5ba0d7;
+$blue-500: #3288cd;
+$blue-600: #286da4;
+$blue-700: #1e517b;
+$blue-800: #143652;
+$blue-900: #0a1b29;
+
+$indigo-50: #ebebfa;
+$indigo-100: #d6d8f5;
+$indigo-200: #adb0eb;
+$indigo-300: #8489e1;
+$indigo-400: #5b61d7;
+$indigo-500: #323acd;
+$indigo-600: #282ea4;
+$indigo-700: #1e237b;
+$indigo-800: #141752;
+$indigo-900: #0a0c29;
+
+$violet-50: #f1ebfa;
+$violet-100: #e4d6f5;
+$violet-200: #c9adeb;
+$violet-300: #ae84e1;
+$violet-400: #925bd7;
+$violet-500: #7732cd;
+$violet-600: #5f28a4;
+$violet-700: #481e7b;
+$violet-800: #301452;
+$violet-900: #180a29;
+
+$purple-50: #f9ebfa;
+$purple-100: #f3d6f5;
+$purple-200: #e8adeb;
+$purple-300: #dc84e1;
+$purple-400: #d15bd7;
+$purple-500: #c532cd;
+$purple-600: #9e28a4;
+$purple-700: #761e7b;
+$purple-800: #4f1452;
+$purple-900: #270a29;
+
+$pink-50: #faebf3;
+$pink-100: #f5d6e7;
+$pink-200: #ebadcf;
+$pink-300: #e184b7;
+$pink-400: #d75ba0;
+$pink-500: #cd3288;
+$pink-600: #a4286d;
+$pink-700: #7b1e51;
+$pink-800: #521436;
+$pink-900: #290a1b;
+
+$red-50: #faebeb;
+$red-100: #f5d6d8;
+$red-200: #ebadb0;
+$red-300: #e18489;
+$red-400: #d75b61;
+$red-500: #cd323a;
+$red-600: #a4282e;
+$red-700: #7b1e23;
+$red-800: #521417;
+$red-900: #290a0c;
+
+
+$gray: $gray-500;
+$orange: $orange-500;
+$yellow: $yellow-500;
+$lime: $lime-500;
+$green: $green-500;
+$teal: $teal-500;
+$cyan: $cyan-500;
+$blue: $blue-500;
+$indigo: $indigo-500;
+$violet: $violet-500;
+$purple: $purple-500;
+$pink: $pink-500;
+$red: $red-500;
+
+
+$theme-colors: (
+
+"gray-50": $gray-50,
+"gray-100": $gray-100,
+"gray-200": $gray-200,
+"gray-300": $gray-300,
+"gray-400": $gray-400,
+"gray-500": $gray-500,
+"gray-600": $gray-600,
+"gray-700": $gray-700,
+"gray-800": $gray-800,
+"gray-900": $gray-900,
+
+"orange-50": $orange-50,
+"orange-100": $orange-100,
+"orange-200": $orange-200,
+"orange-300": $orange-300,
+"orange-400": $orange-400,
+"orange-500": $orange-500,
+"orange-600": $orange-600,
+"orange-700": $orange-700,
+"orange-800": $orange-800,
+"orange-900": $orange-900,
+
+"yellow-50": $yellow-50,
+"yellow-100": $yellow-100,
+"yellow-200": $yellow-200,
+"yellow-300": $yellow-300,
+"yellow-400": $yellow-400,
+"yellow-500": $yellow-500,
+"yellow-600": $yellow-600,
+"yellow-700": $yellow-700,
+"yellow-800": $yellow-800,
+"yellow-900": $yellow-900,
+
+"lime-50": $lime-50,
+"lime-100": $lime-100,
+"lime-200": $lime-200,
+"lime-300": $lime-300,
+"lime-400": $lime-400,
+"lime-500": $lime-500,
+"lime-600": $lime-600,
+"lime-700": $lime-700,
+"lime-800": $lime-800,
+"lime-900": $lime-900,
+
+"green-50": $green-50,
+"green-100": $green-100,
+"green-200": $green-200,
+"green-300": $green-300,
+"green-400": $green-400,
+"green-500": $green-500,
+"green-600": $green-600,
+"green-700": $green-700,
+"green-800": $green-800,
+"green-900": $green-900,
+
+"teal-50": $teal-50,
+"teal-100": $teal-100,
+"teal-200": $teal-200,
+"teal-300": $teal-300,
+"teal-400": $teal-400,
+"teal-500": $teal-500,
+"teal-600": $teal-600,
+"teal-700": $teal-700,
+"teal-800": $teal-800,
+"teal-900": $teal-900,
+
+"cyan-50": $cyan-50,
+"cyan-100": $cyan-100,
+"cyan-200": $cyan-200,
+"cyan-300": $cyan-300,
+"cyan-400": $cyan-400,
+"cyan-500": $cyan-500,
+"cyan-600": $cyan-600,
+"cyan-700": $cyan-700,
+"cyan-800": $cyan-800,
+"cyan-900": $cyan-900,
+
+"blue-50": $blue-50,
+"blue-100": $blue-100,
+"blue-200": $blue-200,
+"blue-300": $blue-300,
+"blue-400": $blue-400,
+"blue-500": $blue-500,
+"blue-600": $blue-600,
+"blue-700": $blue-700,
+"blue-800": $blue-800,
+"blue-900": $blue-900,
+
+"indigo-50": $indigo-50,
+"indigo-100": $indigo-100,
+"indigo-200": $indigo-200,
+"indigo-300": $indigo-300,
+"indigo-400": $indigo-400,
+"indigo-500": $indigo-500,
+"indigo-600": $indigo-600,
+"indigo-700": $indigo-700,
+"indigo-800": $indigo-800,
+"indigo-900": $indigo-900,
+
+"violet-50": $violet-50,
+"violet-100": $violet-100,
+"violet-200": $violet-200,
+"violet-300": $violet-300,
+"violet-400": $violet-400,
+"violet-500": $violet-500,
+"violet-600": $violet-600,
+"violet-700": $violet-700,
+"violet-800": $violet-800,
+"violet-900": $violet-900,
+
+"purple-50": $purple-50,
+"purple-100": $purple-100,
+"purple-200": $purple-200,
+"purple-300": $purple-300,
+"purple-400": $purple-400,
+"purple-500": $purple-500,
+"purple-600": $purple-600,
+"purple-700": $purple-700,
+"purple-800": $purple-800,
+"purple-900": $purple-900,
+
+"pink-50": $pink-50,
+"pink-100": $pink-100,
+"pink-200": $pink-200,
+"pink-300": $pink-300,
+"pink-400": $pink-400,
+"pink-500": $pink-500,
+"pink-600": $pink-600,
+"pink-700": $pink-700,
+"pink-800": $pink-800,
+"pink-900": $pink-900,
+
+"red-50": $red-50,
+"red-100": $red-100,
+"red-200": $red-200,
+"red-300": $red-300,
+"red-400": $red-400,
+"red-500": $red-500,
+"red-600": $red-600,
+"red-700": $red-700,
+"red-800": $red-800,
+"red-900": $red-900,
+);
